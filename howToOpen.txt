@@ -1,0 +1,15 @@
+Tasarım : Eren Bötöy
+Veritabanı ve Kodlar : Ata Berkay Karakuş
+
+Projeyi açabilmek için öncellikle bir veritabanı bağlantısı gerekmektedir dosyaların içerisinde verdiğim "Berkay.mdf" ve "Berkay.ldf" dosyalarını veritabanı dosyalarının içerisine atmalisiniz. Veritabanı dosyalarının içerisine verdiğim 2 dosyayı attıktan sonra projeyi açıp veritabanını resimdeki gösterdiğim gibi bağlayın. 
+
+
+FOTOGRAFLARDA GÖSTERDİĞİM ŞEKİLDE SİZ DE DESKTOP ADI DEĞİŞİK İSE HER FORM.CS'YE GİRİP ŞUNU YAZIN
+con = new SqlConnection("Data Source=  buraya kendi bağladıgınız veritabanı adınızı yazarsaniz problem kalmayacaktır  ;Initial Catalog=Berkay;Integrated Security=True;Connect Timeout=30;Encrypt=False;");
+
+Bunları yaptıktan sonra proje açılmış olacaktır. 
+
+
+HAKLARI ATA BERKAY KARAKUŞ VE EREN BÖTÖY'DE SAKLIDIR.
+
+	

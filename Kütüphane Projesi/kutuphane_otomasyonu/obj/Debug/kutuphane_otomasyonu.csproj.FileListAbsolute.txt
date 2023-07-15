@@ -1,0 +1,121 @@
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+C:\Users\win7\Desktop\Kütüphane Otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\furka\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form3.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form4.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form5.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form6.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form7.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form8.resources
+C:\Users\win7\Desktop\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form9.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.AssemblyReference.cache
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form3.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form4.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form5.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form6.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form7.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form8.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form9.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.cache
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CopyComplete
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+D:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+F:\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+F:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+F:\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form3.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form4.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form5.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form6.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form7.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form8.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form9.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.cache
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CopyComplete
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\Eren Bötöy\OneDrive\Masaüstü\E.B\LİSE\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form3.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form4.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form5.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form6.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form7.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form8.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form9.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.cache
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\faraz\OneDrive\Masaüstü\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CopyComplete
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form3.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form4.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form5.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form6.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form7.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form8.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form9.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CopyComplete
