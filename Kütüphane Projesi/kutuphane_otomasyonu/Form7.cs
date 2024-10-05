@@ -41,7 +41,7 @@ namespace kutuphane_otomasyonu
 
         private void Form7_Load(object sender, EventArgs e)
         {
-            con = new SqlConnection("Data Source=DESKTOP-1BTGRPP;Initial Catalog=Berkay;Integrated Security=True;Connect Timeout=30;Encrypt=False;");
+            con = new SqlConnection("Data Source=DESKTOP-5UN8A75\\SQLEXPRESS;Initial Catalog=Berkay;Integrated Security=True;");
             da = new SqlDataAdapter("Select * From üye_ekle", con);
             ds = new DataSet();
             con.Open();
@@ -50,5 +50,10 @@ namespace kutuphane_otomasyonu
             dataGridView1.DataSource = ds.Tables["üye_ekle"];
             con.Close();
         }
-    }
+
+		private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+		{
+
+		}
+	}
 }

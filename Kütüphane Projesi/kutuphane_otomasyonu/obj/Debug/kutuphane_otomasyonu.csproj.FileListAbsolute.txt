@@ -119,3 +119,22 @@ C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphan
 C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.cache
 C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
 C:\Users\berka\OneDrive\Masaüstü\OL ARTIK\Kütüphane Projesi - Kopya\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CopyComplete
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form3.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form4.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form5.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form6.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form7.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form8.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form9.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphan.454B3E69.Up2Date
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör (3)\KutuphaneProjesi\Kütüphane Projesi\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb

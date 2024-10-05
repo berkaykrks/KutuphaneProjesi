@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (3)\\kutuphaneprojesi\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form5.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form5.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.312Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form6.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form6.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.31Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form7.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form7.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form7.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form7.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form7.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.255Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form9.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form9.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:12:37.459Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form3.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form3.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:11:30.262Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form2.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form2.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:11:22.777Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form2.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form2.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form2.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form2.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:11:24.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form6.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form6.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form6.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form6.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form8.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form8.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form8.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form8.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form8.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:12:28.643Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form4.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form4.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.316Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form5.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form5.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form5.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form5.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form3.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form3.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form3.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form3.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form4.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form4.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form4.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form4.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form1.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:11:05.186Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form7.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form7.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form7.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form7.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCsAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:12:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form8.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form8.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form8.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form8.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBoAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:05:20.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form9.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Form9.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\KutuphaneProjesi\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Form9.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Form9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:12:38.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -38,5 +38,10 @@ namespace kutuphane_otomasyonu
         {
 
         }
-    }
+
+		private void pictureBox2_Click(object sender, EventArgs e)
+		{
+
+		}
+	}
 }

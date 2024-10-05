@@ -31,7 +31,7 @@ namespace kutuphane_otomasyonu
         DataSet ds;
         public void verigetir()
         {
-            con = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Berkay;Integrated Security=True;Connect Timeout=30;Encrypt=False;");
+            con = new SqlConnection("Data Source=DESKTOP-5UN8A75\\SQLEXPRESS;Initial Catalog=Berkay;Integrated Security=True;");
             da = new SqlDataAdapter("Select * From kitap_ekle", con);
             ds = new DataSet();
             con.Open();
@@ -78,7 +78,7 @@ namespace kutuphane_otomasyonu
             string arananKelime = bunifuMetroTextbox1.Text;
 
 
-            con = new SqlConnection("Data Source=DESKTOP-1BTGRPP;Initial Catalog=Berkay;Integrated Security=True;Connect Timeout=30;Encrypt=False;");
+            con = new SqlConnection("Data Source=DESKTOP-5UN8A75\\SQLEXPRESS;Initial Catalog=Berkay;Integrated Security=True;");
             con.Open();           
             string query = "SELECT * FROM kitap_ekle WHERE kitap_ad LIKE @arananKelime";
             cmd = new SqlCommand(query, con);

@@ -47,7 +47,7 @@ namespace kutuphane_otomasyonu
 
         private void btn_ke2_Click(object sender, EventArgs e)
         {
-            con = new SqlConnection("Data Source=DESKTOP-1BTGRPP;Initial Catalog=Berkay;Integrated Security=True;Connect Timeout=30;Encrypt=False;");
+            con = new SqlConnection("Data Source=DESKTOP-5UN8A75\\SQLEXPRESS;Initial Catalog=Berkay;Integrated Security=True;");
             cmd = new SqlCommand();
             ds = new DataSet();
             con.Open();

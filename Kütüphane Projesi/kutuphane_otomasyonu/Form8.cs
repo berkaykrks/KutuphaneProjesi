@@ -24,7 +24,7 @@ namespace kutuphane_otomasyonu
         DataSet ds;
         public void verigetir()
         {
-            con = new SqlConnection("Data Source=DESKTOP-1BTGRPP;Initial Catalog=Berkay;Integrated Security=True;Connect Timeout=30;Encrypt=False;");
+            con = new SqlConnection("Data Source=DESKTOP-5UN8A75\\SQLEXPRESS;Initial Catalog=Berkay;Integrated Security=True;");
             da = new SqlDataAdapter("Select * From emanet_ekle", con);
             ds = new DataSet();
             con.Open();
@@ -55,5 +55,10 @@ namespace kutuphane_otomasyonu
         {
             verigetir();
         }
-    }
+
+		private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+		{
+
+		}
+	}
 }
