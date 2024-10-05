@@ -26,6 +26,6 @@ Bu proje, bir kütüphanede kitap ödünç alma ve iade etme işlemlerini takip 
 - **Visual Studio 2022** veya daha güncel sürüm
 - **.NET Framework **
 - **SQL Server** (Veritabanı için)
-- 
+
 ## Lisans
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
