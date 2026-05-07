@@ -1,0 +1,16 @@
+# Visual Studio gereksizleri
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# DLL ve Büyük dosyalar
+*.dll
+*.exe
+*.pdb
+
+# İşletim sistemi dosyaları
+Thumbs.db
+desktop.ini
